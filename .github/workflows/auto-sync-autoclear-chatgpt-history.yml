@@ -2,7 +2,7 @@ name: Sync chatgpt/autoclear-chatgpt-history/ to (adamlui/autoclear-chatgpt-hist
 
 on:
   push:
-    branches: master
+    branches: auto-sync-sandbox
     paths: chatgpt/autoclear-chatgpt-history/**
 
 jobs:
